@@ -1,7 +1,7 @@
 # TicTacToe
 =====
 one online WebSocket based game for JSP servlet, React.js exercising  
-![alt text](https://raw.githubusercontent.com/bovetliu/TicTacToe/master/WebContent/resource/image/screenshot.jpg "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/bovetliu/TicTacToe/master/WebContent/resource/image/tictactoedemo.jpg "Logo Title Text 1")
 #### Backend side:
 game logic: TicTacToeGame.java, one Servlet class
   * One Map<`GameId`, `TicTacToeGame`> `activeGames` holds active games, one Map<`GameId`,`InitGamerNameString`> `pendingGames` holds pending games  
