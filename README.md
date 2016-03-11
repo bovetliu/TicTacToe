@@ -1,5 +1,4 @@
-# TicTacToe
-=====
+# TicTacToe WebSocket game 
 one online WebSocket based game for JSP servlet, React.js exercising  
 ![alt text](https://raw.githubusercontent.com/bovetliu/TicTacToe/master/WebContent/resource/image/tictactoedemo.jpg "Logo Title Text 1")
 #### Backend side:
