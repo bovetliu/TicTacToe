@@ -1,6 +1,6 @@
 # TicTacToe
 =====
-one online WebSocket based game for JSP servelet, React.js exercising  
+one online WebSocket based game for JSP servlet, React.js exercising  
 ![alt text](https://raw.githubusercontent.com/bovetliu/TicTacToe/master/WebContent/resource/image/screenshot.jpg "Logo Title Text 1")
 #### Backend side:
 game logic: TicTacToeGame.java, one Servlet class
