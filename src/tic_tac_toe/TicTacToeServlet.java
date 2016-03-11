@@ -1,4 +1,4 @@
-package com.wrox;
+package tic_tac_toe;
 
 import org.apache.commons.lang3.math.NumberUtils;
 

@@ -1,4 +1,4 @@
-package com.wrox;
+package tic_tac_toe;
 
 // only when I imported relevant packages at pom.xml, I can import following packages here
 import com.fasterxml.jackson.annotation.JsonIgnore;

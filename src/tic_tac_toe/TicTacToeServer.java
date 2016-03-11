@@ -1,7 +1,8 @@
-package com.wrox;
+package tic_tac_toe;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.wrox.TicTacToeGame.Player;
+
+import tic_tac_toe.TicTacToeGame.Player;
 
 import javax.websocket.CloseReason;
 import javax.websocket.OnClose;
