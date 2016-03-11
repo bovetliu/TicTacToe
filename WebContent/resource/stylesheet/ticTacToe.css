@@ -1,0 +1,29 @@
+/*[class^="icon-"],[class*=" icon-"] {
+    background-image:url("../img/glyphicons-halflings.png");
+}*/
+
+.game-cell {
+    width: 100px;
+    height: 100px;
+    background-color: #ddd;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    margin-left: 4px;
+    display:inline-block;
+}
+.game-cell-selectable {
+    cursor: pointer;
+}
+.game-cell-selectable:hover {
+    background-image: url('../image/ticTacToe-hover.png');
+}
+.game-cell-taken {
+
+}
+.game-cell-player {
+    background-image: url('../image/ticTacToe-player.png');
+}
+.game-cell-opponent {
+    background-image: url('../image/ticTacToe-opponent.png');
+}
